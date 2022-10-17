@@ -1,6 +1,4 @@
-# Tugas-SNSscrape
-
-# Tugas Text Mining - SerpAPI
+# Tugas Text Mining - SNSscrape
 <table>
    <tr>
      <td><b>NAMA</b></td>
